@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/6669venus/studysidescroller/issues"
   },
-  "homepage": "https://github.com/6669venus/studysidescroller#readme"
+  "homepage": "https://github.com/6669venus/studysidescroller#readme",
+  "dependencies": {
+    "grunt-cli": "^1.2.0"
+  }
 }

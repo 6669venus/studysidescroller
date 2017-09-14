@@ -1,0 +1,9 @@
+#!/bin/bash
+
+git add .
+git commit -m "$RANDOM"
+git push
+
+git push ms master
+
+netlify deploy
